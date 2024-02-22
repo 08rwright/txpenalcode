@@ -1,5 +1,5 @@
 # txpenalcode
-Tx-PenalCode-Chatbot
+Tx-PenalCode-UI
 ### Texas Law Guide
 
 This repository contains a Python script that utilizes Streamlit to create an interactive web application called "Texas Law Guide." The application allows users to input a legal term or concept and retrieves information from the Texas Penal Code regarding its definition, elements of offense, and punishment.
